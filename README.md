@@ -9,4 +9,4 @@ Slack username: Jerriemiah
 > The custom webpage hosted on the server serves as proof of practical deployment ability, simulating real-world production tasks expected of DevOps engineers.
 
 
-Server IP/domain: 
+Server IP/domain: http://54.152.89.250/
